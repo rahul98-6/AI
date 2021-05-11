@@ -1,2 +1,2 @@
 # AI
-yuuyu
+y
